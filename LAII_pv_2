@@ -1,0 +1,2 @@
+#CRTFv0 CASA Region Text Format version 0
+line [[288.88822913deg, 40.59916023deg], [287.18081756deg, 2.28239983deg]] coord=GALACTIC, linewidth=2, linestyle=-, symsize=1, symthick=1, color=2ee6d6, font=Helvetica, fontsize=10, fontstyle=bold, usetex=false
