@@ -1,0 +1,13 @@
+imagename = 'LAII.im'
+outfile   = 'LAII.sub'
+box       = ''
+region    = 'LAII_cut_region_1'
+chans     = ''
+stokes    = ''
+mask      = ''
+dropdeg   = False
+overwrite = False
+verbose   = True
+stretch   = False
+keepaxes  = []
+#imsubimage( imagename='LAII.im',outfile='LAII.sub',box='',region='LAII_cut_region_1',chans='',stokes='',mask='',dropdeg=False,overwrite=False,verbose=True,stretch=False,keepaxes=[] )

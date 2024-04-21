@@ -1,0 +1,13 @@
+imagename  = 'LAII.sub'
+fitsimage  = 'LAII.sub.fits'
+velocity   = False
+optical    = False
+bitpix     = -32
+minpix     = 0
+maxpix     = -1
+overwrite  = False
+dropstokes = False
+stokeslast = True
+history    = True
+dropdeg    = False
+#exportfits( imagename='LAII.sub',fitsimage='LAII.sub.fits',velocity=False,optical=False,bitpix=-32,minpix=0,maxpix=-1,overwrite=False,dropstokes=False,stokeslast=True,history=True,dropdeg=False )

@@ -1,0 +1,10 @@
+fitsimage         = 'LAII.fits'
+imagename         = 'LAII.im'
+whichrep          = 0
+whichhdu          = -1
+zeroblanks        = True
+overwrite         = False
+defaultaxes       = False
+defaultaxesvalues = []
+beam              = []
+#importfits( fitsimage='LAII.fits',imagename='LAII.im',whichrep=0,whichhdu=-1,zeroblanks=True,overwrite=False,defaultaxes=False,defaultaxesvalues=[],beam=[] )
